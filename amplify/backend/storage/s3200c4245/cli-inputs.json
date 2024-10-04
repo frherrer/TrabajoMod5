@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3200c4245",
+  "policyUUID": "200c4245",
+  "bucketName": "trabajomod5888d0ae4f64a474ab640a4f0515526cd",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
